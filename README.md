@@ -6,7 +6,7 @@ This repository supports the Zenodo preprint:
 
 Author: Marcel Jiron / MarMarLabs  
 Zenodo DOI: https://doi.org/10.5281/zenodo.19779656  
-Artifact repository: https://github.com/marmar9615-cloud/frontier-ai-stress-test-audit
+Artifact repository: https://github.com/MarMarLabs/frontier-ai-stress-test-audit
 
 ## Purpose
 
